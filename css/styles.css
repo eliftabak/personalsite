@@ -186,6 +186,10 @@ a {
 }
 
 @media (max-width: 1028px) {
+    .middle-container {
+    font-size: 2rem;
+  }
+  
   .hotair-balloon3 {
     position: absolute;
     top: 480px;
